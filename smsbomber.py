@@ -28,7 +28,7 @@ def logo():
  
  Sms bomber made by Ilushe4ka (NiKoTiN228) with <3 <3 <3
 
- VK разработчика: https://vkfaces.com/vk/user/sex.drugs.rocknroll228
+ VK разработчика: https://vk.com/sex.drugs.rocknroll228
 
  Telegram разработчика: @NiKoTiN228
 """                                                                                                            
